@@ -1,0 +1,13 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/bin/Debug/netcoreapp3.1/String_Queue.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/bin/Debug/netcoreapp3.1/String_Queue.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/bin/Debug/netcoreapp3.1/String_Queue.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/bin/Debug/netcoreapp3.1/String_Queue.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/bin/Debug/netcoreapp3.1/String_Queue.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/String_Queue/String_Queue/obj/Debug/netcoreapp3.1/String_Queue.genruntimeconfig.cache
